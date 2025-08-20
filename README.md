@@ -1,0 +1,1 @@
+This project aims to visualize and analyze the data . By leveraging the data transformation and visualization capabilities of Microsoft Excel.This project explores patterns, and insights from a dataset of Bike Sales over the Countries etc. 
